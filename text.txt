@@ -1,3 +1,6 @@
 This is our world now... the world of the electron and the switch, the beauty of the baud.
 
-Editted text HJHH
+<<<<<<< HEAD
+=======
+The class is extremely fun!
+>>>>>>> fc32383d3dbec54b9ec4d59fdfbd508d481460bf
